@@ -1,6 +1,3 @@
-super admin :
-email : nuris.akbar@gmail.com
-password : password
 
 Bagian pendaftaran 
 email : bagpendaftaran@gmail.com
